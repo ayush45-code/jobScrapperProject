@@ -6,3 +6,5 @@ config/resume.txt
 .env
 saved.txt
 applied.txt
+__pycache__/
+venv/
